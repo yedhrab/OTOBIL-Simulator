@@ -1,0 +1,15 @@
+# VsCode Files
+.vscode
+
+
+# Sim directoru
+sim
+
+# Özel dosyalar
+_*
+
+# Python files
+__pycache__
+
+# Pipfiles
+Pipfile
